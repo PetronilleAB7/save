@@ -1,0 +1,84 @@
+body{
+    
+}
+
+header{
+    font-size: 25px;
+    color: rgb(22, 119, 119);
+  
+    background-color: rgb(225, 235, 235);
+    border: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+img{
+    border-radius: 50%;
+    width:300px;
+    height: 300px;
+}
+.info{
+    
+    font-size: 20px;
+    margin-right: 190px;
+
+}
+
+.pop{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 10px;
+
+}
+.pop :hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.gau{
+    float: left;
+    padding-left: 50px;
+    margin-right: 785px;
+    
+}
+.gau :hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.parole{
+    
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fer{
+ float: left;
+    padding-left: 50px;
+     margin-right: 800px;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(243, 145, 145);
+
+
+}
+h2:hover
+{
+    font-size: 30px;
+    background-color: rgb(77, 187, 187);
+
+}
+.appren{
+    text-align: center;
+    margin-right: 100px;
+}
+.niveau{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+    text-align: center;
+    
+}
